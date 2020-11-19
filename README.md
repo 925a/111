@@ -2,7 +2,6 @@
 <!DOCTYPE HTML>
 <html>
  <head>
- <title>Название страницы</title>
 </head>
  <body>
  <h2>Моя первая веб-страница</h2>
